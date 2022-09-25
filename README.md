@@ -97,7 +97,7 @@ This project was developed with the following technologies:
 <br></br>
 
 ## 🔖 Layout
-- [Feedback Widget - Figma](https://www.figma.com/community/file/1150897317533332617)
+- [NLW eSports - Figma](https://www.figma.com/community/file/1150897317533332617)
 
 
 <br></br>
