@@ -17,11 +17,6 @@
   <img alt="image" title="" src="Screenshot_2.jpeg" width="25%" height="500" />
 </h1>
 
-<h1 align="center">
-  
-</h1>
-
-
 ## 🚀 Getting started
 
 Clone the project and access the folder.
