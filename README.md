@@ -13,8 +13,8 @@
 <br>
 
 <h1 align="center" flexDirection="row">
-  <img alt="image" title="" src="Screenshot_1.png" width="70%" height="500" />
-  <img alt="image" title="" src="Screenshot_2.jpeg" width="25%" height="500" />
+  <img alt="image" title="" src="Screenshot_1.png" width="80%" height="500" />
+  <img alt="image" title="" src="Screenshot_2.jpeg" width="18%" height="500" />
 </h1>
 
 ## 🚀 Getting started
