@@ -24,7 +24,7 @@ Clone the project and access the folder.
 ### Web
 
 ```bash
-$ https://github.com/diaspd/Feed-Get.git
+$ https://github.com/diaspd/find-your-duo.git
 $ cd web
 
 # Install the dependencies
