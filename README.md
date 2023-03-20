@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/7jhwI1R.png" alt="Logo Next Level Week eSports" width="240px">
 </h1>
 
-<br></br>
+</br>
 
 <p align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,12 +10,14 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+</br>
 
-<h1 align="center" flexDirection="row">
+<div align="center" flexDirection="row">
   <img alt="image" title="" src="Screenshot_1.png" width="80%" height="500" />
   <img alt="image" title="" src="Screenshot_2.jpeg" width="18%" height="500" />
-</h1>
+</div>
+
+</br>
 
 ## 🚀 Getting started
 
