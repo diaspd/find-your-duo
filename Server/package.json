@@ -8,7 +8,7 @@
     "dev": "tsnd --exit-child src/server.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "pedro_dias",
   "license": "ISC",
   "dependencies": {
     "@prisma/client": "^4.3.1",
