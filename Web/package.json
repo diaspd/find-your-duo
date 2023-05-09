@@ -1,6 +1,7 @@
 {
   "name": "web",
   "private": true,
+  "author": "pedro_dias",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
