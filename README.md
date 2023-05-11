@@ -10,11 +10,11 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-</br>
+---
 
 <div align="center" flexDirection="row">
-  <img alt="image" title="" src="Screenshot_1.png" width="80%" height="500" />
-  <img alt="image" title="" src="Screenshot_2.jpeg" width="18%" height="500" />
+  <img alt="image" title="" src="Screenshot_1.png" width="75%" height="500" />
+  <img alt="image" title="" src="Screenshot_2.jpeg" width="22%" height="500" />
 </div>
 
 </br>
@@ -91,6 +91,7 @@ This project was developed with the following technologies:
 - Express
 - prisma
 
+</br>
 
 ## 📄 Project
 💰 Project made for gamers find they'r duo on games.
