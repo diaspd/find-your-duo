@@ -2,8 +2,6 @@
   <img src="https://i.imgur.com/7jhwI1R.png" alt="Logo Next Level Week eSports" width="240px">
 </h1>
 
-</br>
-
 <p align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
